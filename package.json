@@ -1,0 +1,13 @@
+{
+  "name": "autocomplete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository" : "github.com/andrewyang96",
+  "author": "andrewyang96",
+  "license": "ISC"
+}

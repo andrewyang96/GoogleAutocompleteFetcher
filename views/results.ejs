@@ -1,0 +1,8 @@
+<!--<pre><%= data %></pre>-->
+
+<p id="search">Your search term: <%= data[0] %></p>
+<ul id="results">
+	<% for (var i in data[1]) { %>
+		<li><%= data[1][i] %></li>
+	<% } %>
+</ul>
